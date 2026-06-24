@@ -10,7 +10,7 @@
 
 Añadiendo documento monográfico del trabajo:
 
-👉 **[Ver Trabajo Monográfico (PDF)](https://drive.google.com/file/d/1zS5btt2owMBA9raTr_SH_lvDmnR51Pzm/view?usp=sharing)**
+👉 **[Ver Trabajo Monográfico (PDF)](https://drive.google.com/file/d/14a8C7rEjUTFv535d8ql3_Lcx08WVjmWL/view?usp=sharing)**
 
 ## 1. Introducción y Marco Teórico
 
