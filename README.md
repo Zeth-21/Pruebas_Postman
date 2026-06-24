@@ -6,6 +6,11 @@
 **Entorno de Pruebas (API):** [DummyJSON E-commerce API](https://dummyjson.com/docs)
 
 ---
+## 📚 Documento Monográfico
+
+Añadiendo documento monográfico del trabajo:
+
+👉 **[Ver Trabajo Monográfico (PDF)](https://drive.google.com/file/d/1zS5btt2owMBA9raTr_SH_lvDmnR51Pzm/view?usp=sharing)**
 
 ## 1. Introducción y Marco Teórico
 
